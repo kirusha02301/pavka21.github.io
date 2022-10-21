@@ -1,4 +1,5 @@
-# pavka21.github.io
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=100&color=3B486E&width=435&lines=Learn+IT+..................................>+Code+it)](https://git.io/typing-svg)
 
 <a href="https://github.com/pavka21/ege">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pavka21&repo=ege&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
