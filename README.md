@@ -7,6 +7,8 @@
 
 https://itnan.ru/post.php?c=1&p=649363
 
+https://lbai.ru/
+
 https://www.youtube.com/watch?v=pSg8qlMXKf4
 
 https://proproprogs.ru/flask/flask-chto-eto-takoe-wsgi-prilozhenie
