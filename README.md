@@ -4,6 +4,7 @@
 <a href="https://github.com/pavka21/ege">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pavka21&repo=ege&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+https://itnan.ru/post.php?c=1&p=649363
 
 https://proproprogs.ru/flask/flask-chto-eto-takoe-wsgi-prilozhenie
 
