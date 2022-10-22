@@ -14,7 +14,7 @@
 
 <a href="https://github.com/weissok/-22"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=weissok&repo=-22&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  weissok
 
-<a href="https://github.com/kirusha02301/kirusha02301"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kirusha02301&repo=kirusha02301&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  kirusha02301
+<a href="https://github.com/kirusha02301/kirusha02301"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kirusha02301&repo=kirusha02301&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  Kirill Khuzeev
 
 <a href="https://github.com/ltlstv/sverchok_ltlstv_420"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ltlstv&repo=sverchok_ltlstv_420&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>  ltlstv :rage:
 
